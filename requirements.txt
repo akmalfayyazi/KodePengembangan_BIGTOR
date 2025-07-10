@@ -1,0 +1,10 @@
+ipython
+pillow
+opencv-python
+matplotlib
+numpy
+scikit-learn
+torch
+torchvision
+ultralytics
+roboflow
